@@ -28,7 +28,7 @@ This project involves designing and building three comprehensive Power BI report
 2. **Operational Report**
    - **Sales Amount**
    - **Sales Percentage** 
-   - **Comparison with Previous Month and Quarter
+   - **Comparison with Previous Month and Quarter**
 
 3. **Inventory Report**
    - **Total Inventory Value** 
